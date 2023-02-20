@@ -86,12 +86,4 @@
  * @section license License
  *
  * Distributed under the *GNU General Public License*. See `LICENSE` for more information.
- *
- * @section contact Contact
- *
- * ***GitHub***: https://github.com/czs108
- *
- * ***E-Mail***: chenzs108@outlook.com
- *
- * ***WeChat***: chenzs108
  */

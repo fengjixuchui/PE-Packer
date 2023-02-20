@@ -5,7 +5,6 @@
 [![CMake](docs/badges/Made-with-CMake.svg)](https://cmake.org)
 [![Windows](docs/badges/Microsoft-Windows.svg)](https://www.microsoft.com/en-ie/windows)
 [![License](docs/badges/License-GPL-3.0.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![DOI](https://zenodo.org/badge/231357933.svg)](https://zenodo.org/badge/latestdoi/231357933)
 
 ## 翻译
 
@@ -116,26 +115,3 @@ PE-Packer hello.exe hello-pack.exe
 ## 许可证
 
 使用*GNU General Public*协议，请参考`LICENSE`文件。
-
-## 引用
-
-```tex
-@software{chenzs108_2021_4698355,
-  author       = {Chen Zhenshuo},
-  title        = {czs108/PE-Packer: v1.0.0-beta},
-  month        = apr,
-  year         = 2021,
-  publisher    = {Zenodo},
-  version      = {v1.0.0-beta},
-  doi          = {10.5281/zenodo.4698355},
-  url          = {https://doi.org/10.5281/zenodo.4698355}
-}
-```
-
-## 作者
-
-***GitHub***：https://github.com/czs108
-
-***E-Mail***：chenzs108@outlook.com
-
-***微信***：chenzs108
